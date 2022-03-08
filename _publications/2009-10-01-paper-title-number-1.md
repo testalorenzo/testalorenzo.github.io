@@ -1,12 +1,12 @@
 ---
 title: "Functional data analysis characterizes the shapes of the first COVID-19 epidemic wave in Italy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-08-30-fda-covid-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2021-08-30
+venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-021-95866-y'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Boschi, T., Di Iorio, J., Testa, L., Cremona, M.A., Chiaromonte, F.&quot; Functional data analysis characterizes the shapes of the first COVID-19 epidemic wave in Italy&quot; <i>Scientific Reports</i> 11, 17054 (2021)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
