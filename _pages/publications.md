@@ -13,4 +13,4 @@ In contemporary science, I find statistics to be an essential tool to understand
 - The Climate Repository Project
 - COVID-19 Project
 
-You can find my publication list in my [CV](https://testalorenzo.github.io/files/CV_updated_May22.pdf "LT_CV") and on [my Google Scholar profile](https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl=en&authuser=2 "Google_Scholar").
+You can find my publication list in my [CV](https://testalorenzo.github.io/files/CV_updated_May22.pdf "LT_CV") and on my[Google Scholar](https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl=en&authuser=2 "Google_Scholar") profile.
