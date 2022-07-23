@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Here](https://testalorenzo.github.io/files/CV_updated_June22.pdf "LT_CV") you can find my CV (updated June 2022).
+[Here](https://testalorenzo.github.io/files/CV_updated_July22.pdf "LT_CV") you can find my CV (updated July 2022).
