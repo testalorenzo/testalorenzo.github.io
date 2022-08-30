@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!DOCTYPE html>
 <html>
   <body>
     <center><iframe src="https://testalorenzo.github.io/files/CV_updated_July22.pdf" width="100%" height="700">
