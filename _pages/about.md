@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Honors student in Economics at Sant'Anna School of Advanced Studies. I also recently graduated in Data Science from the University of Pisa.
+Currently, I am a M.Phil. student (first year PhD courses) in Statistics and Computer Science at Bocconi University. I am also a Honors student in Economics at Sant'Anna School of Advanced Studies.
 
 **UPDATE [08/26]** Our Climate Repository Project has a new dashboard to navigate through the available data. [You can find it here!](https://testalorenzo-climate-repository--home-x2mmry.streamlitapp.com/)
 
