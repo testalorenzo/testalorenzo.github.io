@@ -10,7 +10,7 @@ redirect_from:
 
 Currently, I am a M.Phil. student (first year PhD courses) in Statistics and Computer Science at Bocconi University. I am also a Honors student in Economics at Sant'Anna School of Advanced Studies.
 
-**UPDATE [10/08]:** I am going to take part in [ICSDS 2022](https://sites.google.com/view/icsds2022/home?authuser=0) later this December, by presenting a poster on FAStEN, our efficient algorithm for feature selection and estimation in functional regressions!
+**UPDATE [10/08]:** I am going to take part in [ICSDS 2022](https://sites.google.com/view/icsds2022/home?authuser=0) later this December, presenting a poster on FAStEN, our efficient algorithm for feature selection and estimation in functional regressions!
 
 **UPDATE [08/26]:** Our Climate Repository Project has a new dashboard to navigate through the available data. [You can find it here!](https://climaterepo.streamlitapp.com/)
 
