@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a M.Phil. student (first year PhD courses) in Statistics and Computer Science at Bocconi University. I am also a Honors student in Economics at Sant'Anna School of Advanced Studies.
+Currently, I am a M.Phil. student (first year Ph.D. courses) in Statistics and Computer Science at Bocconi University. I am also a Honors student in Economics at Sant'Anna School of Advanced Studies.
 
 **UPDATE [10/08]:** I am going to take part in [ICSDS 2022](https://sites.google.com/view/icsds2022/home?authuser=0) later this December, presenting a poster on FAStEN, our efficient algorithm for feature selection and estimation in functional regressions!
 
