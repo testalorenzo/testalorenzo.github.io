@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a M.Phil. student (first year Ph.D. courses) in Statistics and Computer Science at Bocconi University. I am also a Honors student in Economics at Sant'Anna School of Advanced Studies.
+Currently, I am an M.Phil. student (first-year Ph.D. courses) in *Statistics and Computer Science* at Bocconi University, Milan. I am also a Honors student in Economics at Sant'Anna School of Advanced Studies, Pisa.
 
-**UPDATE [10/08]:** I am going to take part in [ICSDS 2022](https://sites.google.com/view/icsds2022/home?authuser=0) later this December, presenting a poster on FAStEN, our efficient algorithm for feature selection and estimation in functional regressions!
+**UPDATE [12/09]:** I am going to give a contributed talk on FAStEN, our efficient algorithm for feature selection and estimation in functional regressions, at [ICSDS 2022](https://sites.google.com/view/icsds2022/home?authuser=0) later next week. [Here](https://testalorenzo.github.io/files/FAStEN_poster.pdf) you can also find a poster on it! 
 
 **UPDATE [08/26]:** Our Climate Repository Project has a new dashboard to navigate through the available data. [You can find it here!](https://climaterepo.streamlitapp.com/)
 
