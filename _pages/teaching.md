@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+### Statistical Learning and Large Data, Module 2
+Teaching Assistant, *Sant'Anna School of Advanced Studies*, Academic Year 2022-2023
+
+[Here](https://github.com/EMbeDS-education/StatsAndComputing20222023/wiki/SLLD "SLLD") you can find the materials for the course.
+
 ### Applied Statistics
 Teaching Assistant, *Sant'Anna School of Advanced Studies*, Academic Year 2021-2022
 
