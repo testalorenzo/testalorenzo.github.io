@@ -7,16 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-In contemporary science, I find statistics to be an essential tool to understand phenomena, and to draw reliable conclusions. I am broadly interested in the analysis of large and complex data, with particular emphasis on structured objects such as functional data and networks. I am also involved in projects at the intersection of computer science, optimization and statistical learning, where computational feasibility and inferential stability play crucial roles. 
+In contemporary science, I find statistics to be an essential tool to understand phenomena, and to draw reliable conclusions. I am broadly interested in the analysis of large and complex data, with particular emphasis on structured objects such as functional data and networks. I am also involved in projects at the intersection of computer science, optimization and statistical learning, where computational feasibility and inferential stability play crucial roles.
 
 ## Ongoing projects
+
 Currently, I am working on the following research projects:
 
 - Functional Feature Selection, jointly with [Tobia Boschi](https://www.linkedin.com/in/tobia-boschi-08277a156/), [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Matthew Reimherr](http://www.personal.psu.edu/mlr36/). [This](https://testalorenzo.github.io/files/FAStEN_poster.pdf) is a poster on FAStEN, an efficient algorithm for feature selection and coefficient estimation in functional regression models
+
 - [The Climate Repository Project](https://climaterepo.streamlitapp.com/ 'climate'), together with [Marco Gortan](https://www.linkedin.com/in/marco-gortan/), [Giorgio Fagiolo](https://sites.google.com/view/giorgiofagiolo/home) and [Francesco Lamperti](http://www.francescolamperti.eu/)
+
 - COVID-19 Project, a joint work with [Tobia Boschi](https://www.linkedin.com/in/tobia-boschi-08277a156/), [Jacopo Di Iorio](https://science.psu.edu/stat/people/jqd5830), [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Marzia A. Cremona](https://marziacremona.com/), and whose results appeared in the news [[1]](https://www.psu.edu/news/research/story/staying-home-primary-care-and-limiting-contagion-hubs-may-curb-covid-19-deaths/), [[2, Italian]](https://www.ilsole24ore.com/art/covid-italia-statistica-che-analizza-prima-ondata-perche-tassi-mortalita-tanto-diversi-le-regioni-AEfHQmf), [[3, Italian]](https://www.santannapisa.it/it/news/covid-19-italia-la-statistica-fa-luce-sul-perche-la-prima-ondata-abbia-causato-tassi-di) and as a [SciPod's audio book](https://www.scipod.global/dr-marzia-cremona-using-functional-data-analysis-to-better-understand-covid-19-mortality/)
 
 ## Previous projects
-I have also been involved in a project on the analysis of the determinants of success of start-ups financing through venture capitals. Results, which were obtained and validated with a combination of network, functional data and multivariate analysis tools, were published [here](https://doi.org/10.1007/s41109-022-00482-y) (as a journal article) and [here](https://link.springer.com/chapter/10.1007/978-3-030-93409-5_61) (as a conference proceeding). [This](https://youtube.com/shorts/o4ccLoCdReI?feature=share) is a very short and informal presentation of the results (in Italian). 
+
+I have also been involved in a project on the analysis of the determinants of success of start-ups financing through venture capitals. Results, which were obtained and validated with a combination of network, functional data and multivariate analysis tools, were published [here](https://doi.org/10.1007/s41109-022-00482-y) (as a journal article) and [here](https://link.springer.com/chapter/10.1007/978-3-030-93409-5_61) (as a conference proceeding). [This](https://youtube.com/shorts/o4ccLoCdReI?feature=share) is a very short and informal presentation of the results (in Italian).
 
 You can find my publication list in my [CV](https://testalorenzo.github.io/cv/) and on my [Google Scholar](https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl=en&authuser=2 "Google_Scholar") profile.
