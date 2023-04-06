@@ -11,7 +11,7 @@ redirect_from:
 
 <html>
   <body>
-    <center><iframe src="https://testalorenzo.github.io/files/CV_updated_November22.pdf" width="100%" height="700">
+    <center><iframe src="https://testalorenzo.github.io/files/CV_updated_April23.pdf" width="100%" height="700">
       <style>
         html, body { height: 100%; }
         body {overflow: hidden; margin: 0; }
