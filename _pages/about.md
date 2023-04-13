@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! I am going to start my Ph.D. in August 2023. I have been an Honors student in *Economics* at Sant'Anna School of Advanced Studies, Pisa, where I was supervised by Profs. [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/274085875_317132230453227_2904188665411723936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=-Z2NXLZJwlQAX9pCNJm&_nc_ht=scontent-mxp2-1.xx&oh=00_AfAnFqf6mJKA0B4gTlvuC8xlLcTcGQI2s63lmcGysVju2g&oe=643360BE), a small and beautiful village on the foothills of the Orobie Mountains, Italy.
+Hi! I am going to start my Ph.D. in August 2023. I have been an Honors student in *Economics* at Sant'Anna School of Advanced Studies, Pisa, where I was supervised by Profs. [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://testalorenzo.github.io/images/tdr.jpg), a small and beautiful village on the foothills of the Orobie Mountains, Italy.
 
 ## Updates
 
