@@ -14,6 +14,8 @@ Hi! I am going to start my Ph.D. in August 2023. I have been an Honors student i
 
 ## Updates
 
+**UPDATE [2023/06/01]:** I am very happy to [join](https://www.santannapisa.it/it/news/we-welcome-dr-lorenzo-testa-lembeds-affiliate) L'EMbeDS Department of Excellence at Sant'Anna School of Advanced Studies, Pisa, as a Junior Research Fellow
+
 **UPDATE [2023/03/28]:** The paper introducing `FAStEN`, our efficient algorithm for feature selection and estimation in functional regressions, is available as a preprint [here](https://arxiv.org/abs/2303.14801)
 
 **UPDATE [2023/03/22]:** I graduated in *Economics and Management* from Sant'Anna School of Advanced Studies, Pisa, with a thesis on the analysis of bibliographic data of publications in genome research, exploiting networks and functional data. This concludes my journey as a Honors student at Sant'Anna!
@@ -23,5 +25,3 @@ Hi! I am going to start my Ph.D. in August 2023. I have been an Honors student i
 **UPDATE [2022/08/26]:** Our Climate Repository Project has a new dashboard to navigate through the available data. [You can find it here!](https://climaterepo.streamlitapp.com/)
 
 **UPDATE [2022/07/22]:** I graduated in *Data Science* from the University of Pisa, with a thesis on feature selection and estimation in sparse function-on-function regression settings!
-
-**UPDATE [2022/06/27]:** Our paper on the analysis of venture capital investments with tools from network science and functional data analysis has been published on Applied Network Science. [Check it out!](https://doi.org/10.1007/s41109-022-00482-y)
