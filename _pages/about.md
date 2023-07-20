@@ -14,6 +14,8 @@ Hi! I am going to start my Ph.D. in August 2023. I have been an Honors student i
 
 ## Updates
 
+**UPDATE [2023/07/20]:** Our new paper on the comparison between the first two waves of the COVID-19 epidemics in Italy is available as a preprint [here](https://arxiv.org/abs/2307.09820)
+
 **UPDATE [2023/06/01]:** I am very happy to [join](https://www.santannapisa.it/it/news/we-welcome-dr-lorenzo-testa-lembeds-affiliate) L'EMbeDS Department of Excellence at Sant'Anna School of Advanced Studies, Pisa, as a Junior Research Fellow
 
 **UPDATE [2023/03/28]:** The paper introducing `FAStEN`, our efficient algorithm for feature selection and estimation in functional regressions, is available as a preprint [here](https://arxiv.org/abs/2303.14801)
@@ -23,5 +25,3 @@ Hi! I am going to start my Ph.D. in August 2023. I have been an Honors student i
 **UPDATE [2022/12/09]:** I am going to give a contributed talk on `FAStEN` at [ICSDS 2022](https://sites.google.com/view/icsds2022/home?authuser=0) later next week. [Here](https://testalorenzo.github.io/files/FAStEN_poster.pdf) you can also find a poster on it!
 
 **UPDATE [2022/08/26]:** Our Climate Repository Project has a new dashboard to navigate through the available data. [You can find it here!](https://climaterepo.streamlitapp.com/)
-
-**UPDATE [2022/07/22]:** I graduated in *Data Science* from the University of Pisa, with a thesis on feature selection and estimation in sparse function-on-function regression settings!
