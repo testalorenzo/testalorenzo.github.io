@@ -11,7 +11,7 @@ redirect_from:
 
 <html>
   <body>
-    <center><iframe src="http://docs.google.com/gview?url=https://testalorenzo.github.io/files/CV_updated_April23.pdf&embedded=true" frameborder="0" id="myiframe" style="height:700; width:100%;">
+    <center><iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://testalorenzo.github.io/files/CV_updated_April23.pdf" width="100%" height="700">
       <style>
         html, body { height: 100%; }
         body {overflow: hidden; margin: 0; }
