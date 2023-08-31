@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lorenzo Testa"
   avatar           : "IMG_20220524_122942.jpg"
-  bio              : "Incoming Ph.D. student in Statistics"
-  location         : "Sant'Anna School, Italy"
+  bio              : "Ph.D. student in Statistics"
+  location         : "Carnegie Mellon University"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl=en&authuser=2&oi=ao"
-  email            : "l.testa@sssup.it"
+  email            : "ltesta@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
