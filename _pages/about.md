@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! I am a first-year Ph.D. student in *Statistics and Data Science* at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html). I am also a Junior Research Fellow at [Sant'Anna School of Advanced Studies, Pisa](https://www.santannapisa.it/en), where I have previously been an Honors student in *Economics*, supervised by Profs. [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://testalorenzo.github.io/images/tdr.jpg), a small and beautiful village on the foothills of the Orobie Mountains, Italy.
+Hi! I am a first-year Ph.D. student in *Statistics and Data Science* at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html). I am also a Junior Research Fellow at [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en), Pisa, where I have previously been an Honors student in *Economics*, supervised by Profs. [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://testalorenzo.github.io/images/tdr.jpg), a small and beautiful village on the foothills of the Orobie Mountains, Italy.
 
 ## Updates
 
