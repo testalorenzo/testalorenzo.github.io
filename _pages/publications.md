@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-In contemporary science, I find statistics to be an essential tool to understand phenomena, and to draw reliable conclusions. I am broadly interested in the analysis of large and complex data, with particular emphasis on structured objects such as functional data and networks. I am also involved in projects at the intersection of computer science, optimization and statistical learning, where computational feasibility and inferential stability play crucial roles.
+In contemporary science, I find statistics to be an essential tool to understand phenomena, and to draw reliable conclusions. I am broadly interested in the analysis of large and complex data, with particular emphasis on structured objects such as functional data and networks. I am also involved in projects at the intersection of computer science, optimization, and statistical learning, where computational feasibility and inferential stability play crucial roles.
 
 ## Ongoing projects
 
