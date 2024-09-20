@@ -23,4 +23,4 @@ Currently, I am taking classes as core requirements of my Ph.D. at CMU. I am try
 
 I have also been involved in a project on the analysis of the determinants of success of start-ups financing through venture capitals. Results, which were obtained and validated with a combination of network, functional data and multivariate analysis tools, were published [here](https://doi.org/10.1007/s41109-022-00482-y) (as a journal article) and [here](https://link.springer.com/chapter/10.1007/978-3-030-93409-5_61) (as a conference proceeding). [This](https://youtube.com/shorts/o4ccLoCdReI?feature=share) is a very short and informal presentation of the results (in Italian).
 
-You can find my publication list in my [CV](https://testalorenzo.github.io/cv/) and on my [Google Scholar](https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl=en&authuser=2 "Google_Scholar") profile.
+You can find my publication list in my [CV](https://testalorenzo.github.io/cv/) and on my [Google Scholar](https://scholar.google.com/citations?user=gDmLTJQAAAAJ&hl "Google_Scholar") profile.
