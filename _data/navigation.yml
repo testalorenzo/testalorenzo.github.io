@@ -16,7 +16,8 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_updated_December23.pdf
+    # url: /cv/
     
   - title: "Climate Data"
     url: /climate_repository/
