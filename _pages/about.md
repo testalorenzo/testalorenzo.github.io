@@ -10,16 +10,14 @@ redirect_from:
 
 ## About me
 
-Hi! I am a second-year Ph.D. student in *Statistics and Data Science* at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html), where I am working with [Kathryn Roeder](https://kathrynmroeder.github.io/) and [Bernie Devlin](https://devlinbj.github.io/). I am also a Junior Research Affiliate at L'EMbeDS Department, [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en), Pisa, where I have previously been an Honors student supervised by [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://testalorenzo.github.io/images/tdr.jpg), a small and beautiful town on the foothills of the Orobie Mountains, Italy.
+Hi! I am a second-year Ph.D. student in *Statistics and Data Science* at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html), where I am working with [Kathryn Roeder](https://kathrynmroeder.github.io/). I am also a Junior Research Affiliate at L'EMbeDS Department, [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en), Pisa, where I have previously been an Honors student supervised by [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://testalorenzo.github.io/images/tdr.jpg), a small and beautiful town on the foothills of the Orobie Mountains, Italy.
 
 ## Updates
 
-**2024/05/24:** Our new paper describing the pipelines needed to process gridded climate data as to provide ready-to-use, reliable, and up-to-date climate variables at the resolution of countries and regions has been published on Scientific Data. Check it out [here](https://www.nature.com/articles/s41597-024-03304-1)!
+**12/13/2024:** I will present our work on the comparison between the first two waves of the COVID-19 epidemics in Italy at [CMStats 2024](https://www.cmstatistics.org/CFECMStatistics2024/index.php) in London, UK, and then an ongoing project on estimating protein isoform abundances with `PAQu` at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in Nice, France.
 
-**2023/08/14:** I am starting my Ph.D. journey at Carnegie Mellon University, Pittsburgh, PA. I am very excited to join the [Department of Statistics and Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html)!
+**10/22/2024:** The paper introducing `FAStEN`, our efficient algorithm for feature selection and estimation in functional regressions, has been published in JCGS. You can find it [here](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2407464)!
 
-**2023/07/20:** Our new paper on the comparison between the first two waves of the COVID-19 epidemics in Italy is available as a preprint [here](https://arxiv.org/abs/2307.09820)
+**10/18/2024:** An extension of our *Weighted Climate Dataset* has been accepted in the papers track of the *NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning*. You can find it [here](https://www.climatechange.ai/papers/neurips2024/34)!
 
-**2023/06/01:** I am very happy to [join](https://www.santannapisa.it/it/news/we-welcome-dr-lorenzo-testa-lembeds-affiliate) L'EMbeDS Department of Excellence at Sant'Anna School of Advanced Studies, Pisa, as a Junior Research Affiliate
-
-**2023/03/28:** The paper introducing `FAStEN`, our efficient algorithm for feature selection and estimation in functional regressions, is available as a preprint [here](https://arxiv.org/abs/2303.14801)
+**5/24/2024:** Our new paper describing the pipelines needed to process gridded climate data as to provide ready-to-use, reliable, and up-to-date climate variables at the resolution of countries and regions has been published on Scientific Data. Check it out [here](https://www.nature.com/articles/s41597-024-03304-1)!
