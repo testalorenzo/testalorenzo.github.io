@@ -14,10 +14,10 @@ Hi! I am a second-year Ph.D. student in *Statistics and Data Science* at [Carneg
 
 ## Updates
 
+**1/14/2025:** We just released a new preprint on doubly-robust estimation of average treatment effects when outcomes are measured over a continuous domain, such as functional data. Check it out [here](https://arxiv.org/abs/2501.06024)!
+
 **12/13/2024:** I will present our work on the comparison between the first two waves of the COVID-19 epidemics in Italy at [CMStats 2024](https://www.cmstatistics.org/CFECMStatistics2024/index.php) in London, UK, and then an ongoing project on estimating protein isoform abundances with `PAQu` at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in Nice, France.
 
 **10/22/2024:** The paper introducing `FAStEN`, our efficient algorithm for feature selection and estimation in functional regressions, has been published in JCGS. You can find it [here](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2407464)!
 
 **10/18/2024:** An extension of our *Weighted Climate Dataset* has been accepted in the papers track of the *NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning*. You can find it [here](https://www.climatechange.ai/papers/neurips2024/34)!
-
-**5/24/2024:** Our new paper describing the pipelines needed to process gridded climate data as to provide ready-to-use, reliable, and up-to-date climate variables at the resolution of countries and regions has been published on Scientific Data. Check it out [here](https://www.nature.com/articles/s41597-024-03304-1)!
