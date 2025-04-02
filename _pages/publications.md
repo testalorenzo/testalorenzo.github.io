@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-In contemporary science, I find statistics to be an essential tool to understand phenomena, and to draw reliable conclusions. I am broadly interested in the analysis of large and complex data, with particular emphasis on structured objects such as functional data and networks. I am also keen on the development of new theory and methods to integrate state-of-the-art ML prediction algorithms into stable inferential frameworks. My work is often inspired by problems in causal inference or interdisciplinary collaborations with researchers in the sciences.
+In contemporary science, I find statistics to be an essential tool to understand phenomena, and to draw reliable conclusions. My research focuses on developing new theory and methods that integrate state-of-the-art ML prediction algorithms into stable inferential frameworks, mainly through the lens of semiparametric statistics. I am also broadly interested in the analysis of large and complex data, with particular emphasis on structured objects such as functional data and networks. My work is often inspired by problems in causal inference or interdisciplinary collaborations with researchers in the sciences.
 
 ## Some projects
 
