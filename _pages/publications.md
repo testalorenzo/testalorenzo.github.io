@@ -13,6 +13,8 @@ In contemporary science, I find statistics to be an essential tool to understand
 
 These are some of the projects I have (somehow recently) been working on:
 
+- Semiparametric semi-supervised learning for general targets under distribution shift and decaying overlap, a joint work with [Qi Xu](https://statsqixu.github.io/), [Jing Lei](https://www.stat.cmu.edu/~jinglei/), and [Kathryn Roeder](https://kathrynmroeder.github.io/). The preprint is available [here](https://arxiv.org/abs/2505.06452).
+
 - Doubly robust estimation of functional average treatment effects, together with [Tobia Boschi](https://research.ibm.com/people/tobia-boschi), [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/), [Edward H. Kennedy](https://www.ehkennedy.com/), and [Matthew Reimherr](http://www.personal.psu.edu/mlr36/). The preprint is available [here](https://arxiv.org/abs/2501.06024).
 
 - Functional Feature Selection, jointly with [Tobia Boschi](https://research.ibm.com/people/tobia-boschi), [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/), and [Matthew Reimherr](http://www.personal.psu.edu/mlr36/). [This](https://testalorenzo.github.io/files/FAStEN_poster.pdf) is a poster on `FAStEN`, an efficient algorithm for feature selection and coefficient estimation in functional regression models. The paper on `FAStEN` has been published on JCGS in November 2024, and the preprint is available [here](https://arxiv.org/abs/2303.14801)
