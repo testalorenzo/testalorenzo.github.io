@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi! I am a second-year Ph.D. student in *Statistics* at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html). I am incredibly lucky to be advised by [Kathryn Roeder](https://kathrynmroeder.github.io/) and [Jing Lei](https://www.stat.cmu.edu/~jinglei/). I am also a Junior Research Affiliate at L'EMbeDS Department, [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en), Pisa, where I have previously been an Honors student advised by [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://testalorenzo.github.io/images/tdr.jpg), a small and beautiful town on the foothills of the Orobie Mountains, Italy.
+Hi! I am a third-year Ph.D. student in *Statistics* at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html). I am incredibly lucky to be advised by [Kathryn Roeder](https://kathrynmroeder.github.io/) and [Jing Lei](https://www.stat.cmu.edu/~jinglei/). I am also a Junior Research Affiliate at L'EMbeDS Department, [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en), Pisa, where I have previously been an Honors student advised by [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Andrea Mina](https://www.santannapisa.it/en/andrea-mina). I come from [Torre de' Roveri](https://testalorenzo.github.io/images/tdr.jpg), a small and beautiful town on the foothills of the Orobie Mountains, Italy.
 
 ## Updates
 
