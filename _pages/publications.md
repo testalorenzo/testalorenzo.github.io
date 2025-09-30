@@ -13,6 +13,8 @@ In contemporary science, I find statistics to be an essential tool to understand
 
 These are some of the projects I have (somehow recently) been working on:
 
+- Rescuing double robustness: safe estimation under complete misspecification, together with [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/) and [Kathryn Roeder](https://kathrynmroeder.github.io/). The preprint is available [here](https://arxiv.org/abs/2509.22446).
+
 - Semiparametric semi-supervised learning for general targets under distribution shift and decaying overlap, a joint work with [Qi Xu](https://statsqixu.github.io/), [Jing Lei](https://www.stat.cmu.edu/~jinglei/), and [Kathryn Roeder](https://kathrynmroeder.github.io/). The preprint is available [here](https://arxiv.org/abs/2505.06452).
 
 - Doubly robust estimation of functional average treatment effects, together with [Tobia Boschi](https://research.ibm.com/people/tobia-boschi), [Francesca Chiaromonte](https://sites.psu.edu/chiaromonte/), [Edward H. Kennedy](https://www.ehkennedy.com/), and [Matthew Reimherr](http://www.personal.psu.edu/mlr36/). The preprint is available [here](https://arxiv.org/abs/2501.06024).
