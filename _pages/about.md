@@ -14,6 +14,8 @@ Hi! I am a third-year Ph.D. student in *Statistics* at [Carnegie Mellon Universi
 
 ## Updates
 
+**10/26/2025:** I am helping organize the new [L'EMbeDS Data Science Seminar Series](https://sites.google.com/view/lembedsds3) ($DS^3$). This is a series of monthly online seminars on the methodology of data science and its applications. The first talk will be on 11/12/2025 by [Luca Insolia](https://www.lucainsolia.com/) from the University of Geneva. Subscribe to the [mailing list](https://groups.google.com/g/lembeds-ds3) to receive updates!
+
 **9/30/2025:** Some new preprints are out! Check out [what can go wrong with doubly-robust estimators](https://arxiv.org/abs/2509.22446), [how to deal with missing outcomes in diff-in-diff designs](https://arxiv.org/abs/2509.25009), and [how to perform tractable and almost efficient estimation and inference with non-monotone missing data](https://arxiv.org/abs/2509.24158).
 
 **5/20/2025:** I have started working as a summer research scientist intern at Amazon in Bellevue, WA! I am very excited about this opportunity!
