@@ -8,7 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Current class
-I am not TAing this semester.
+### 36469-36669 Statistical Genomics and High-Dimensional Inference
+Co-instructor, *Carnegie Mellon University*, Spring 2026
+
+Check the Canvas webpage of the class for more information. [Here](https://github.com/testalorenzo/469_public) you can also find some materials for the course. My office hours are on Mondays 2.30PM-3.30PM, Wean Hall 3715.
 
 ## Previous classes
 
