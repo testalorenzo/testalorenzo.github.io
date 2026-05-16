@@ -8,12 +8,18 @@ author_profile: true
 {% include base_path %}
 
 ## Current class
+
+### 36401 Modern Regression
+Instructor, *Carnegie Mellon University*, Summer 2026
+
+Check the Canvas webpage of the class for more information. [Here](https://github.com/testalorenzo/401_public) you can also find some materials for the course. My office hours are on Tuesdays 10.50AM-12.00PM, FMS.
+
+## Previous classes
+
 ### 36469-36669 Statistical Genomics and High-Dimensional Inference
 Co-instructor, *Carnegie Mellon University*, Spring 2026
 
-Check the Canvas webpage of the class for more information. [Here](https://github.com/testalorenzo/469_public) you can also find some materials for the course. My office hours are on Mondays 2.30PM-3.30PM, Wean Hall 3715.
-
-## Previous classes
+Check the Canvas webpage of the class for more information. [Here](https://github.com/testalorenzo/469_public) you can also find some materials for the course.
 
 ### 36226 Introduction to Statistical Inference
 Teaching Assistant, *Carnegie Mellon University*, Spring 2024

@@ -14,6 +14,8 @@ Hi! I am a third-year Ph.D. student in *Statistics* at [Carnegie Mellon Universi
 
 ## Updates
 
+**5/11/2026:** I am teaching 36401 (Modern Regression) for the first part of summer. 
+
 **12/19/2025:** I have recently attended [CMStats 2025](https://www.cmstatistics.org/CFECMStatistics2025/index.php) in London, UK, with a talk on identification and estimation of **functional average and conditional treatment effects**, and [ICSDS 2025](https://sites.google.com/view/ims-icsds2025/) in Seville, Spain, with a talk on **double fragility**.
 
 **10/26/2025:** I am helping organize the new [L'EMbeDS Data Science Seminar Series](https://sites.google.com/view/lembedsds3) ($DS^3$). This is a series of monthly online seminars on the methodology of data science and its applications. The first talk will be on 11/12/2025 by [Luca Insolia](https://www.lucainsolia.com/) from the University of Geneva. Subscribe to the [mailing list](https://groups.google.com/g/lembeds-ds3) to receive updates!
