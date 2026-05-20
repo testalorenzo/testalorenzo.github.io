@@ -14,7 +14,7 @@ Hi! I am a third-year Ph.D. candidate in *Statistics* at [Carnegie Mellon Univer
 
 ## Updates
 
-**5/11/2026:** I am teaching 36401 (Modern Regression) for the first part of summer. 
+**5/13/2026:** I have attended [ACIC 2026](https://sci-info.org/2026-meeting-2/) in Salt Lake City, Utah. I am now heading back to Pittsburgh to teach 36401 (Modern Regression) for the first part of summer.
 
 **4/15/2026:** I have completed my thesis proposal. Now I am officially a Ph.D. candidate!
 
