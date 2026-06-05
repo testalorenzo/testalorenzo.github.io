@@ -14,6 +14,8 @@ Hi! I am a third-year Ph.D. candidate in *Statistics* at [Carnegie Mellon Univer
 
 ## Updates
 
+**6/4/2026:** Happy to share that our paper "Doubly-robust functional average treatment effect estimation" has been published in the Journal of Causal Inference. You can read it [here](https://www.degruyterbrill.com/document/doi/10.1515/jci-2025-0045/html)!
+
 **5/13/2026:** I have attended [ACIC 2026](https://sci-info.org/2026-meeting-2/) in Salt Lake City, Utah. I am now heading back to Pittsburgh to teach 36401 (Modern Regression) for the first part of summer.
 
 **4/15/2026:** I have completed my thesis proposal. Now I am officially a Ph.D. candidate!
