@@ -19,11 +19,6 @@
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
-    background-image: url("/images/path1.png");
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: contain;
-
     &:hover {
       opacity: 1;
     }
